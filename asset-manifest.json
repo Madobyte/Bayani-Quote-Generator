@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Bayani-Quotes-Generator/static/css/main.8be7ebed.chunk.css",
-    "main.js": "/Bayani-Quotes-Generator/static/js/main.45937248.chunk.js",
-    "main.js.map": "/Bayani-Quotes-Generator/static/js/main.45937248.chunk.js.map",
-    "runtime-main.js": "/Bayani-Quotes-Generator/static/js/runtime-main.cbdd4520.js",
-    "runtime-main.js.map": "/Bayani-Quotes-Generator/static/js/runtime-main.cbdd4520.js.map",
-    "static/js/2.18140b67.chunk.js": "/Bayani-Quotes-Generator/static/js/2.18140b67.chunk.js",
-    "static/js/2.18140b67.chunk.js.map": "/Bayani-Quotes-Generator/static/js/2.18140b67.chunk.js.map",
-    "index.html": "/Bayani-Quotes-Generator/index.html",
-    "precache-manifest.bd06fb6e009e57cfa2038eb8b50ecd2f.js": "/Bayani-Quotes-Generator/precache-manifest.bd06fb6e009e57cfa2038eb8b50ecd2f.js",
-    "service-worker.js": "/Bayani-Quotes-Generator/service-worker.js",
-    "static/css/main.8be7ebed.chunk.css.map": "/Bayani-Quotes-Generator/static/css/main.8be7ebed.chunk.css.map",
-    "static/js/2.18140b67.chunk.js.LICENSE.txt": "/Bayani-Quotes-Generator/static/js/2.18140b67.chunk.js.LICENSE.txt"
+    "main.css": "/Bayani-Quote-Generator/static/css/main.8be7ebed.chunk.css",
+    "main.js": "/Bayani-Quote-Generator/static/js/main.3c3af362.chunk.js",
+    "main.js.map": "/Bayani-Quote-Generator/static/js/main.3c3af362.chunk.js.map",
+    "runtime-main.js": "/Bayani-Quote-Generator/static/js/runtime-main.7a28716f.js",
+    "runtime-main.js.map": "/Bayani-Quote-Generator/static/js/runtime-main.7a28716f.js.map",
+    "static/js/2.18140b67.chunk.js": "/Bayani-Quote-Generator/static/js/2.18140b67.chunk.js",
+    "static/js/2.18140b67.chunk.js.map": "/Bayani-Quote-Generator/static/js/2.18140b67.chunk.js.map",
+    "index.html": "/Bayani-Quote-Generator/index.html",
+    "precache-manifest.160526b0f98ae14cc6ba6b2b083896ee.js": "/Bayani-Quote-Generator/precache-manifest.160526b0f98ae14cc6ba6b2b083896ee.js",
+    "service-worker.js": "/Bayani-Quote-Generator/service-worker.js",
+    "static/css/main.8be7ebed.chunk.css.map": "/Bayani-Quote-Generator/static/css/main.8be7ebed.chunk.css.map",
+    "static/js/2.18140b67.chunk.js.LICENSE.txt": "/Bayani-Quote-Generator/static/js/2.18140b67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbdd4520.js",
+    "static/js/runtime-main.7a28716f.js",
     "static/js/2.18140b67.chunk.js",
     "static/css/main.8be7ebed.chunk.css",
-    "static/js/main.45937248.chunk.js"
+    "static/js/main.3c3af362.chunk.js"
   ]
 }
