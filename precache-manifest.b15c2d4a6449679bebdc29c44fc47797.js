@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc1588bf88357dda5d59dfe89a61b84f",
+    "revision": "d9a1430bdeccbfda9b856bb229f83177",
     "url": "/Bayani-Quote-Generator/index.html"
   },
   {

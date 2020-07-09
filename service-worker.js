@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bayani-Quote-Generator/precache-manifest.160526b0f98ae14cc6ba6b2b083896ee.js"
+  "/Bayani-Quote-Generator/precache-manifest.b15c2d4a6449679bebdc29c44fc47797.js"
 );
 
 self.addEventListener('message', (event) => {
